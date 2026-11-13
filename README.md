@@ -4,15 +4,12 @@
 
 📍 India | 🎓 Techno Main, Salt Lake | 
 
-I am a passionate Computer Science student interested in Full Stack Development, Software Engineering, Database Management and Problem Solving.
+I am a passionate Computer Science student interested in Full Stack Development, Software Engineering, Database Management and Problem Solving.I enjoy building practical applications, writing clean code and exploring new technologies.
 
-I enjoy building practical applications, writing clean code and exploring new technologies.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔗 Connect With Me
 
-[Email](mailto:amanaryan7762@gmail.com) | [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/AmanKumar-7762) | 
+[Email](mailto:amanaryan7762@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-kumar-841ba52a4) | [GitHub](https://github.com/AmanKumar-7762) | 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
