@@ -1,20 +1,20 @@
-# Hi, I'm Aman Kumar 👋
+ Aman Kumar 
 
-### Software Developer | Full Stack Developer | B.Tech CSE Student
+ Software Developer | Full Stack Developer | B.Tech CSE Student
 
-📍 India | 🎓 Techno Main, Salt Lake | Class of 2027
+📍 India | 🎓 Techno Main, Salt Lake | 
 
 I am a passionate Computer Science student interested in Full Stack Development, Software Engineering, Database Management and Problem Solving.
 
 I enjoy building practical applications, writing clean code and exploring new technologies.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔗 Connect With Me
 
-[Email](mailto:amanaryan7762@gmail.com) | [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL) | [Portfolio](YOUR_PORTFOLIO_URL)
+[Email](mailto:amanaryan7762@gmail.com) | [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/AmanKumar-7762) | 
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Technical Skills
 
@@ -38,7 +38,7 @@ I enjoy building practical applications, writing clean code and exploring new te
 - Computer Networks
 - Operating Systems
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
@@ -51,7 +51,7 @@ I enjoy building practical applications, writing clean code and exploring new te
 - Developed KPIs for SLA compliance and resolution time.
 - Created SQL dashboards for business insights.
 
-[View Project on GitHub](YOUR_PROJECT_REPOSITORY_LINK)
+
 
 ### 2. Spotify Cloud – Music Streaming Web App
 
@@ -62,7 +62,7 @@ I enjoy building practical applications, writing clean code and exploring new te
 - Developed Play, Pause, Next and Previous controls.
 - Added search functionality and interactive UI.
 
-[View Project on GitHub](YOUR_PROJECT_REPOSITORY_LINK)
+
 
 ---
 
@@ -86,15 +86,6 @@ CGPA: 7.43 (Up to 6th Semester)
 
 Expected Graduation: 2027
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
-
----
 
 ### 💡 Currently Learning
 - Advanced React.js
