@@ -1,4 +1,6 @@
- Aman Kumar 
+ <h1 align="center">
+  AMAN KUMAR
+</h1>
 
  Software Developer | Full Stack Developer | B.Tech CSE Student
 
