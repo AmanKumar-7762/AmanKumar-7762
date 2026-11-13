@@ -9,7 +9,7 @@ I am a passionate Computer Science student interested in Full Stack Development,
 
 ## 🔗 Connect With Me
 
-[Email](mailto:amanaryan7762@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-kumar-841ba52a4) | [GitHub](https://github.com/AmanKumar-7762) | 
+[Email](amanaryan7762@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-kumar-841ba52a4) | [GitHub](https://github.com/AmanKumar-7762) | 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
